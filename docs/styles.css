@@ -112,21 +112,26 @@ header{
 img{
   align-self: center;
 }
+/* .container{
+  margin-top: 200px;
+} */
 #header ul{
   padding: 0px;
 }
 .cita{
+  padding-top: 270px;
   text-align: center;
-  margin-top: 120px;
   margin-bottom: 60px;
   width: 100%;
 
 }
 .cita p{
-
+font-size: 0.8em;
   text-align: justify;
   font-family:'Times New Roman', Times, serif;
 }
-
+.productos{
+  padding-top: 270px;
+}
 }
   
